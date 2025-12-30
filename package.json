@@ -1,0 +1,16 @@
+{
+  "name": "kvickdom",
+  "version": "1.0.0",
+  "source": "src/index.js",
+  "main": "dist/main.js",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "repository": "git@github.com:bunnysocks/kvickdom.git",
+  "author": "bunnysocks <hemansakkthivelms14@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
